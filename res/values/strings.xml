@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Blair Talks</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string-array name="teachers">
+        <item>Ms. Duval</item>
+        <item>Ms. Dvorsky</item>
+        <item>Mr. Fowler</item>
+        <item>Mr. Giles</item>
+        <item>Mr. Ostrander</item>
+        <item>Mr. Pham</item>
+        <item>Ms. Piper</item>
+        <item>Mr. Rose</item>
+        <item>Mr. Schafer</item>
+        <item>Mr. Stein</item>
+        <item>Mr. Street</item>
+        <item>PHAM ROSE DUBSTEP MASH</item>
+    </string-array>
+
+    <string name="title_activity_main_menu">MainMenu</string>
+
+</resources>
